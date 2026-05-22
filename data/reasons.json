@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Computer is not working"
+    },
+    {
+        "id": 2,
+        "name": "Internet issue"
+    },
+    {
+        "id": 3,
+        "name": "Printer issue"
+    },
+    {
+        "id": 4,
+        "name": "Software issue"
+    },
+    {
+        "id": 5,
+        "name": "Consultation needed"
+    },
+    {
+        "id": 6,
+        "name": "Access \/ password \/ account"
+    },
+    {
+        "id": 7,
+        "name": "Technical information protection"
+    },
+    {
+        "id": 8,
+        "name": "Other"
+    }
+]
